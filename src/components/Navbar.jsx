@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="bg-gray-900 text-white shadow-md">
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
-        <Link to="/" className="text-2xl font-bold">⚽ FutsalTourney</Link>
+        <Link to="/" className="text-2xl font-bold">⚽ e-Football Tournament</Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex space-x-6">
